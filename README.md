@@ -1,4 +1,5 @@
 #EMPLOYEES PAYSLIP GENERATOR
+
 This program generates a payslip for every employee
 in the sales department of Royal Stores.
 
@@ -29,14 +30,13 @@ Formulas:
 	<strong>Gross = basic pay + (Numbers of sales  x amount )%10</strong>
 	<strong>Net Salary = Gross - Tax</strong>
 Use the Tax Table below to calculate tax on net Salary
-<h3>
+
 0 - 5000 0%
 5,001  - 10,000  5%
 10,001 - 30,000  10%
 30,001 - 50,000  15%
 50,001 - 100,000 20%
 over 100,000     25%
-</h3>
 
 
 
@@ -45,7 +45,8 @@ over 100,000     25%
 
 
 
-<h3>
+
+
  ------------------------------------------------
  :		JUMIA ENTERPRISE PAYROLL SLIP	        :
  ------------------------------------------------
@@ -59,7 +60,7 @@ over 100,000     25%
  -------------------------------------------------
  Gross Salary: Ksh 0			Net Sal: Ksh. 0 
  -------------------------------------------------
-</h3>
+
 
 
 
