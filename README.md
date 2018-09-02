@@ -1,4 +1,4 @@
-#EMPLOYEES PAYSLIP GENERATOR
+<h1>EMPLOYEES PAYSLIP GENERATOR</h1>
 
 This program generates a payslip for every employee
 in the sales department of Royal Stores.
