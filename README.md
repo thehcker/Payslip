@@ -14,7 +14,7 @@ It involves writing the following functions to process the employees payslip
 	: net_salary(employee_name)
 	: print_payslip(employee_name)
 
-
+#Programming tools
 NB:
 	This program richly implement the use of
 	 :- int datatype
@@ -41,12 +41,7 @@ over 100,000     25%
 
 
 
-
-
-
-
-
-
+#Generating payslip
  ------------------------------------------------
  :		JUMIA ENTERPRISE PAYROLL SLIP	        :
  ------------------------------------------------
