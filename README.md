@@ -44,7 +44,7 @@ over 100,000     25%
 <h2>Generating payslip</h2>
 
  ------------------------------------------------
- :		JUMIA ENTERPRISE PAYROLL SLIP	        :
+ :		ROYAL ENTERPRISE PAYROLL SLIP	        :
  ------------------------------------------------
  Name:                       KRA Pin:
  -------------------------------------------------
